@@ -34,4 +34,4 @@ curl -fsSL https://raw.githubusercontent.com/salomonorg/Auto-Completion-Commands
 ![Termux Screenshot](https://raw.githubusercontent.com/salomonorg/Auto-Completion-Commands/refs/heads/main/Screenshot_20250718-084124.png)
 
 **💻 VPS (Ubuntu)**  
-![Ubuntu Screenshot](https://raw.githubusercontent.com/salomonorg/Auto-Completion-Commands/refs/heads/main/Screenshot_20250718-084124.png)
+![Ubuntu Screenshot](https://raw.githubusercontent.com/salomonorg/Auto-Completion-Commands/refs/heads/main/Screenshot_20250718-084018.png)
